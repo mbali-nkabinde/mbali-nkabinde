@@ -50,8 +50,8 @@ I fell into cybersecurity and never wanted to climb back out. What hooked me was
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mbali-nkabind&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=4FC1FF&text_color=8C9AB6&icon_color=3DDC97" alt="GitHub stats" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbali-nkabind&hide_border=true&background=0A0F1C&ring=4FC1FF&fire=FFB454&currStreakLabel=4FC1FF&sideLabels=8C9AB6&dates=5B6B8C&stroke=1D2A44" alt="streak" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=mbali-nkabinde&show_icons=true&hide_border=true&bg_color=0A0F1C&title_color=4FC1FF&text_color=8C9AB6&icon_color=3DDC97" alt="GitHub stats" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mbali-nkabinde&hide_border=true&background=0A0F1C&ring=4FC1FF&fire=FFB454&currStreakLabel=4FC1FF&sideLabels=8C9AB6&dates=5B6B8C&stroke=1D2A44" alt="streak" height="160" />
 
 </div>
 
