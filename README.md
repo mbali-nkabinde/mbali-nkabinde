@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=4FC1FF&center=true&vCenter=true&width=560&lines=hi%2C+I'm+Mbali+%F0%9F%91%8B;I+read+logs+so+you+don't+have+to;professionally+suspicious+since+2024;curiosity+%3E+certifications+(but+I'm+getting+both)" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=4FC1FF&center=true&vCenter=true&width=680&lines=hi%2C+I'm+Mbali+%F0%9F%91%8B;I+read+logs+so+you+don't+have+to;professionally+suspicious+since+2024;curiosity+over+certifications+(but+I'm+getting+both)" alt="typing intro" />
 
 ### security analyst by day · security nerd by choice 🔐
 
