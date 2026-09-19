@@ -19,7 +19,7 @@ _Cape Town, South Africa_ 🇿🇦
 
 ## 🕵️‍♀️ whoami
 
-I fell into cybersecurity and never wanted to climb back out. What hooked me wasn't the job title — it was the puzzle: every alert is a tiny mystery, and somewhere in the logs is the answer. I get genuinely excited about _why_ attacks work, not just how to stop them.
+I fell into cybersecurity and never wanted to climb back out. What hooked me wasn't the job title it was the puzzle: every alert is a tiny mystery, and somewhere in the logs is the answer. I get genuinely excited about _why_ attacks work, not just how to stop them.
 
 - 🔭 Currently deep in **cloud & identity threats** the "who logged in, from where, and _why at 3am?_" business
 - 🌱 Studying for **SC-200, SC-300 & Security+** (send snacks)
