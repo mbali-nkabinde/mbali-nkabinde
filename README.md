@@ -21,11 +21,11 @@ _Cape Town, South Africa_ 🇿🇦
 
 I fell into cybersecurity and never wanted to climb back out. What hooked me wasn't the job title — it was the puzzle: every alert is a tiny mystery, and somewhere in the logs is the answer. I get genuinely excited about _why_ attacks work, not just how to stop them.
 
-- 🔭 Currently deep in **cloud & identity threats** — the "who logged in, from where, and _why at 3am?_" business
+- 🔭 Currently deep in **cloud & identity threats** the "who logged in, from where, and _why at 3am?_" business
 - 🌱 Studying for **SC-200, SC-300 & Security+** (send snacks)
-- 🧩 Slowly building my **home lab** — because the best way to defend systems is to understand how they break
+- 🧩 Slowly building my **home lab** because the best way to defend systems is to understand how they break
 - 💬 Will happily talk your ear off about: phishing tricks, weird log entries, why MFA fatigue attacks are so sneaky, and whether the printer is a threat actor (it is)
-- ⚡ Fun fact: I started as a **SharePoint developer** — so I've seen the enterprise from both sides of the ticket queue
+- ⚡ Fun fact: I started as a **SharePoint developer** so I've seen the enterprise from both sides of the ticket queue
 
 ## 🧰 things I poke at
 
@@ -57,7 +57,7 @@ I fell into cybersecurity and never wanted to climb back out. What hooked me was
 
 ## 🧠 security philosophy
 
-> "Assume breach. Verify everything. Logs are your source of truth — but tune them first."
+> "Assume breach. Verify everything. Logs are your source of truth but tune them first."
 
 Also accepting: _"It's always DNS"_ and _"the S in IoT stands for security."_
 
@@ -71,7 +71,7 @@ Also accepting: _"It's always DNS"_ and _"the S in IoT stands for security."_
 
 <div align="center">
 
-_🚨 this profile is monitored 24/7 — mostly by me, at 2am, wondering why I'm still awake_
+_🚨 this profile is monitored 24/7 mostly by me, at 2am, wondering why I'm still awake_
 
 ![Profile views](https://komarev.com/ghpvc/?username=mbali-nkabind&color=4FC1FF&style=flat-square&label=visitors+logged)
 
